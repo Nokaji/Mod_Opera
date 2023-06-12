@@ -21,6 +21,6 @@
 <img src="https://github.com/Nokaji/Mod_Opera/blob/Master/image/tonikawa%20themedark.png">
 <img src="https://github.com/Nokaji/Mod_Opera/blob/Master/image/tonikawa%20themelight.png">
 
-[<kbd> <br> Lien Opera <br> </kbd>](https://store.gx.me/mods/erql1w/tensei-shitara-slime-mod/)
+[<kbd> <br> Lien Opera <br> </kbd>](https://store.gx.me/mods/i8ynfd/tonikaku-kawaii-mod/)
 
 </section>

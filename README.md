@@ -3,8 +3,8 @@
 <p>List</p>
 </center>
 
-[Tensei](https://github.com/Nokaji/Mod_Opera#tensei)
-[Tonikawa](https://github.com/Nokaji/Mod_Opera#tonikawa)
+[Tensei](https://github.com/Nokaji/Mod_Opera#tensei)<br />
+[Tonikawa](https://github.com/Nokaji/Mod_Opera#tonikawa)<br />
 
 <section id="tensei">
 

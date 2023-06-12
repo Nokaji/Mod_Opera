@@ -1,6 +1,6 @@
 <center>
 <h1>Mod Opera</h1>
-<h4>List</h4>
+<h2>List</h2>
 </center>
 
 [Tensei](https://github.com/Nokaji/Mod_Opera#tensei)<br />

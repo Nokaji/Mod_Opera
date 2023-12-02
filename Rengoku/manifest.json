@@ -1,0 +1,75 @@
+{
+    "name": "Rengoku mod",
+    "description": "un mod Rengoku Demon Slayer",
+    "developer":
+    {
+        "name": "Nokaji"
+    },
+    "icons":
+    {
+        "512": "icon_512.png"
+    },
+    "manifest_version": 3,
+    "mod":
+    {
+        "license": "license.txt",
+        "payload":
+        {
+            "background_music":
+            [
+                "music/track_1.mp3"
+            ],
+            "theme":
+            {
+                "dark":
+                {
+                    "gx_accent":
+                    {
+                        "h": 4,
+                        "s": 86.1,
+                        "l": 60.6
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 0,
+                        "s": 68.6,
+                        "l": 33.7
+                    }
+                },
+                "light":
+                {
+                    "gx_accent":
+                    {
+                        "h": 58,
+                        "s": 100.0,
+                        "l": 77.3
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 49,
+                        "s": 96.2,
+                        "l": 58.8
+                    }
+                }
+            },
+            "wallpaper":
+            {
+                "dark":
+                {
+                    "image": "wallpaper/wallpaper_dark.mp4",
+                    "first_frame": "wallpaper/firstframedark.jpg",
+                    "text_color": "#ffffff",
+                    "text_shadow": "#0B000E"
+                },
+                "light":
+                {
+                    "image": "wallpaper/firstframelight.jpg",
+                    "text_color": "#000000",
+                    "text_shadow": "#0B000E"
+                }
+            }
+        },
+        "schema_version": 1
+    },
+    "version": "1.0.0"
+}
